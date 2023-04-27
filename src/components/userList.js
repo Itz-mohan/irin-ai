@@ -7,7 +7,7 @@ export default function UserList(props) {
 
   return (
     <div className='user-list-component'>
-      <h1 className='title'>User Details</h1>
+      <h1 className='user-list-title'>User Details</h1>
 
       {userList?.map((data, i) => {
         return (

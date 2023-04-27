@@ -8,7 +8,7 @@ export default function UserInput(props) {
 
   return (
     <div className='user-input-component'>
-      <h1 className='title'>Enter User Details</h1>
+      <h1 className='user-input-title'>Enter User Details</h1>
 
       <form>
         <label className='name-label'>Name</label>
