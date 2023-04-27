@@ -1,0 +1,185 @@
+.header {
+  position: absolute;
+  width: 100vw;
+  height: 64px;
+  left: 0px;
+  top: 0px;
+
+  background: #000000;
+}
+
+.container {
+  position: absolute;
+  width: 1280px;
+  height: 64px;
+  left: 81px;
+  top: 0px;
+
+  background: #000000;
+}
+
+.title {
+  position: absolute;
+  width: 150px;
+  height: 37px;
+  left: 0px;
+  top: 14px;
+
+  font-family: 'Roboto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 37px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.title1 {
+  position: absolute;
+  left: 13.85%;
+  right: 25.38%;
+  top: 23.33%;
+  bottom: 23.33%;
+
+  font-family: 'Roboto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.title2 {
+  position: absolute;
+  width: 36px;
+  height: 16px;
+  left: 292px;
+  top: 24px;
+
+  font-family: 'Roboto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.web-logo {
+  position: absolute;
+  width: 15.52px;
+  height: 0px;
+  left: 952.27px;
+  top: 27.35px;
+
+  background: #000000;
+  border: 1px solid #ffffff;
+  transform: rotate(-45.5deg);
+}
+
+.web {
+  position: absolute;
+  width: 36px;
+  height: 16px;
+  left: 999px;
+  top: 27px;
+
+  font-family: 'Roboto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.product-logo {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 1055px;
+  top: 26px;
+
+  background: #ffffff;
+}
+
+.product {
+  position: absolute;
+  width: 74px;
+  height: 16px;
+  left: 1092px;
+  top: 27px;
+
+  font-family: 'Roboto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.login {
+  position: absolute;
+  width: 48px;
+  height: 16px;
+  left: 1197px;
+  top: 25px;
+
+  font-family: 'Roboto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.sign-up {
+  position: absolute;
+  width: 86px;
+  height: 30px;
+  left: 1264px;
+  top: 20px;
+
+  background: #d9d9d9;
+  border-radius: 20px;
+}
+
+.sign-up-label {
+  position: absolute;
+  width: 61px;
+  height: 16px;
+  left: 1277px;
+  top: 26px;
+
+  font-family: 'Roboto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #000000;
+}

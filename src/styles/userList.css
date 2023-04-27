@@ -1,0 +1,165 @@
+.user-list-component {
+  position: absolute;
+  width: 743px;
+  height: 446px;
+  left: 607px;
+  top: 160px;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 20px rgba(116, 188, 82, 0.28);
+  border-radius: 20px;
+}
+
+.title {
+  position: absolute;
+  width: 638px;
+  height: 39px;
+  left: 33px;
+  top: 8px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 24px;
+  /* or 75% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.list-0 {
+  position: absolute;
+  width: 661px;
+  height: 81px;
+  left: 41px;
+  top: 75px;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 20px rgba(116, 188, 82, 0.28);
+  border-radius: 20px;
+}
+
+.list-1 {
+  position: absolute;
+  width: 661px;
+  height: 81px;
+  left: 37px;
+  top: 170px;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 20px rgba(116, 188, 82, 0.28);
+  border-radius: 20px;
+}
+
+.list-2 {
+  position: absolute;
+  width: 661px;
+  height: 81px;
+  left: 37px;
+  top: 273px;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 20px rgba(116, 188, 82, 0.28);
+  border-radius: 20px;
+}
+
+.list-name {
+  position: absolute;
+  width: 168px;
+  height: 26px;
+  left: 24px;
+  top: 27px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.list-email {
+  position: absolute;
+  width: 247px;
+  height: 26px;
+  left: 192px;
+  top: 27px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.list-edit {
+  position: absolute;
+  width: 32px;
+  height: 36px;
+  left: 555px;
+  top: 22px;
+}
+
+.list-delete {
+  position: absolute;
+  width: 28px;
+  height: 26px;
+  left: 604px;
+  top: 27px;
+}
+
+.load-btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 28px;
+  gap: 90px;
+
+  position: absolute;
+  width: 133px;
+  height: 44px;
+  left: 267px;
+  top: 376px;
+
+  background: #000000;
+  border-radius: 100px;
+}
+
+.load-btn-label {
+  width: 77px;
+  height: 24px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  display: flex;
+  align-items: center;
+
+  /* Primary/Off white */
+
+  color: #ebf3f8;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}

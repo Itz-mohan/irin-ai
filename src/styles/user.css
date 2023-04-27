@@ -1,0 +1,18 @@
+.user-container {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 959px;
+  height: 925px;
+  left: -75px;
+  top: -280px;
+  display: flex;
+
+  background: linear-gradient(
+    111.57deg,
+    #a4ff31 -34.92%,
+    rgba(164, 255, 49, 0.560847) 19.68%,
+    rgba(164, 255, 49, 0.259259) 57.18%,
+    rgba(164, 255, 49, 0) 89.42%
+  );
+}
